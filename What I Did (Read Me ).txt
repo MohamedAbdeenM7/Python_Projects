@@ -1,0 +1,8 @@
+1- Cleaning Data Loading from Kaggle
+2- Data Cleaning Split Column - Replace values - Save Data to CSV
+3- Univariate Analysis Matplotlib Subplots
+4- Bivariate Analysis Feature and Target Parameters - Correlations - seaborn pairplot
+5- What has a greater influence on the price of an apartment, the area or the location?
+6- Linear Regression Model to predict the price of a flat 
+7- Multi linear regression to predict the price of a flat
+8- What if we want to infer using text data (Dummy variables)
