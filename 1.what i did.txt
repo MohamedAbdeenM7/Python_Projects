@@ -1,0 +1,10 @@
+1.how to import and install pandas an libraries
+2.how to calculate the lower and upper boundry
+3.how to know how many rows and columns in yor data frame 
+4.how to know how many rows is outliers
+5.how to get a random sample 
+6.how to get first and last rows in youe data frame by head and tail 
+7.how to decribe your data frame by this i mean (min,max,mean,median, q1,q3,iqr )
+8.how to use boxplot 
+9.how to bulid a function for wranglering to make it simple to
+  load files ,drop null values from data frame changing names of columns and their data types 
